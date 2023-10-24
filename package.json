@@ -1,0 +1,30 @@
+{
+  "name": "backendjs-course",
+  "version": "1.0.0",
+  "description": "Backend application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamnicat/node-express-mongodb-course-backend-js.git"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "Nijat Hajiyev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamnicat/node-express-mongodb-course-backend-js/issues"
+  },
+  "homepage": "https://github.com/iamnicat/node-express-mongodb-course-backend-js#readme",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
